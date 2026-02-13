@@ -13,24 +13,12 @@ As a Software Engineer, I have experience in various technologies and developmen
 ## 🚀 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=flat-square&logo=micro-services&logoColor=white" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/SOLID-Principles-red?style=flat-square" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/RESTful-API-green?style=flat-square" alt="RESTful"/>
-</div>
-<br>
-
-<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,java,spring,vue,vite,pinia,nuxt,vuetify,nestjs,express,electron,react,html,css,linux,gcp,aws,docker,githubactions,git,nginx,mysql,mariadb&perline=12&theme=dark" alt="My Skills" />
   </a>
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaozupeli&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
 </div>
