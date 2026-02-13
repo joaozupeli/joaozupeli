@@ -1,22 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2893E6&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Jo%C3%A3o+Zupeli;Software+Engineer;Architecting+Solutions..." alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <em>Building robust and scalable applications with a focus on architecture and clean code.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-zupeli-612a17287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
-<br>
-
-## 👨‍💻 About Me
-
-As a **Software Engineer**, I have experience in various technologies and development practices. My passion lies in designing systems that are not only functional but also maintainable and scalable.
+As a Software Engineer, I have experience in various technologies and development practices. My passion lies in designing systems that are not only functional but also maintainable and scalable.
 
 * 🔭 I’m currently working on **Micro-services design & Backend Systems**
 * 🌱 I’m currently exploring **Advanced Cloud Architecture**
