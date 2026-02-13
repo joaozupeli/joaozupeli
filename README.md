@@ -21,7 +21,7 @@ As a Software Engineer, I have experience in various technologies and developmen
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,java,spring,vue,vite,pinia,nuxt,vuetify,nestjs,express,electron,react,html,css,linux,gcp,aws,docker,githubactions,git,nginx,mysql,mariadb&perline=6&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,java,spring,vue,vite,pinia,nuxt,vuetify,nestjs,express,electron,react,html,css,linux,gcp,aws,docker,githubactions,git,nginx,mysql,mariadb&perline=12&theme=dark" alt="My Skills" />
   </a>
 </div>
 
