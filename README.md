@@ -20,7 +20,7 @@ As a Software Engineer, I have experience in various technologies and developmen
 
 ---
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaozupeli&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaozupeli&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY2NDU5NjQsIm5iZiI6MTc4NjY0NTY2NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODEzVDE4Mjc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkMmM2NWRmMjhjMWYyZWExNTBjODcwMzZlMzI0NjVhZDFlMmI5NzFlOTc5YjUxZTNiYTAwNzc1NWJjMTg3OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.QQdmx_7sXrJvLWkZW_lD1jW7NtyyQAAYWld4OAppQ00)" alt="legal"/>
 </div>
 
 ---
